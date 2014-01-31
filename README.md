@@ -20,7 +20,9 @@ Edit your `config.rb` as follows:
 
 ```ruby
 activate :emoji
-```:
+```
+
+or
 
 ```ruby
 activate :emoji, :dir => 'images/emoji', :width => 30, :height => 30
